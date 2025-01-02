@@ -1,0 +1,24 @@
+.error {
+  span {
+    font-weight: 500;
+    color: var(--white);
+    text-transform: uppercase;
+  }
+
+  .thumb {
+    margin: 60px 0px;
+  }
+
+  h2 {
+    letter-spacing: 18px;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    line-height: 1.6;
+  }
+}
+
+.g-ind {
+  position: relative;
+  z-index: 99;
+}
